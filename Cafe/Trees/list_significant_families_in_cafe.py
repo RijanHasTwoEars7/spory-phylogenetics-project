@@ -52,7 +52,7 @@ def query_asr(cell_data):
     OG_pattern = r'OG[0-9]+'
 
     for node in cell_data:
-        node = f"{node}\*" # the slash is there to espace the wildcard of *.
+        node = f"{node}\*" # the slash is there to escape the wildcard of *.
         for line in all_families:
             if re.search(node,line):
                 m = re.search(OG_pattern,line)
