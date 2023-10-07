@@ -382,7 +382,9 @@ A tsv file with node, parents, children and siblings listed and the extraneous c
 
 ## `Highlight_nodes.R`
 
-### Goals: When we have a species tree in newick format, it would be useful to make a graph/illustration of the tree in a more human-readable format. Further still if the tree holds multiple clades/groups, it would be more useful still to have that information represented using colors.
+### Goals
+
+When we have a species tree in newick format, it would be useful to make a graph/illustration of the tree in a more human-readable format. Further still if the tree holds multiple clades/groups, it would be more useful still to have that information represented using colors.
 
 ### Input
 
