@@ -399,7 +399,7 @@ When we have a species tree in newick format, it would be useful to make a graph
 ### Basic operation
 
 - Take the tree and make a graphical representation.
-- Take the table, find the nodes of interest using the numerical values, take the names adjacent to the nodal numbers and use that to relate the colors to the numbers.
+- Take the table (if supplied), find the nodes of interest using the numerical values, take the names adjacent to the nodal numbers and use that to relate the colors to the numbers.
 
 Examples:
 
