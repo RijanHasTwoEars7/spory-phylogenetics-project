@@ -262,7 +262,7 @@ The main difference between this script and the Julia script is that this script
 
 # CCDB
 
-##  ccdb_insights.R
+## ccdb_insights.R
 
 ### Dependencies:
 - @CCDB - The main data to be supplied to the script, with at least the above-mentioned data-fields supplied.
@@ -942,4 +942,3 @@ For selection, we need convert multiple sequence alignments of peptide data and 
     
     - identifyer.pl
     - A table of fasta names and special codes.
-
